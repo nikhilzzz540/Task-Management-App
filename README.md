@@ -78,21 +78,22 @@ Password: admin123
 
 ## 📁 Folder Structure
 
-task-dashboard/
+```
+Task-Management-App/
 ├── app/
 │   ├── dashboard/
-│   │   └── page.tsx          # Main dashboard page with all features
+│   │   └── page.tsx
 │   ├── login/
-│   │   └── page.tsx          # Mock login page
+│   │   └── page.tsx
 │   ├── data/
-│   │   └── tasks.ts          # Mock task data
+│   │   └── tasks.ts
 │   ├── types/
-│   │   └── index.ts          # TypeScript interfaces (Task, Status)
-│   ├── globals.css           # Global styles
-│   ├── layout.tsx            # Root layout
-│   └── page.tsx              # Root redirect to /login
+│   │   └── index.ts
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
 ├── components/
-│   └── ui/                   # shadcn/ui components
+│   └── ui/
 │       ├── button.tsx
 │       ├── input.tsx
 │       ├── label.tsx
@@ -101,15 +102,16 @@ task-dashboard/
 │       ├── select.tsx
 │       └── badge.tsx
 ├── public/
-│   ├── login.png             # Login page screenshot
-│   ├── dashboard-dark.png    # Dashboard dark mode screenshot
-│   ├── dashboard-dark-2.png  # Dashboard dark mode tasks
-│   ├── dashboard-light.png   # Dashboard light mode screenshot
-│   └── dashboard-light-2.png # Dashboard light mode tasks
-├── components.json           # shadcn configuration
-├── tailwind.config.ts        # Tailwind configuration
-├── tsconfig.json             # TypeScript configuration
+│   ├── login.png
+│   ├── dashboard-dark.png
+│   ├── dashboard-dark-2.png
+│   ├── dashboard-light.png
+│   └── dashboard-light-2.png
+├── components.json
+├── tailwind.config.ts
+├── tsconfig.json
 └── README.md
+
 
 ## 🎨 Design Decisions
 
