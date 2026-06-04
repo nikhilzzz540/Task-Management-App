@@ -5,15 +5,15 @@ A modern, responsive Task Management App built with Next.js, TypeScript, Tailwin
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](public/login.png.png)
+![Login Page](public/login.png)
 
 ### Dashboard - Dark Mode
-![Dashboard Dark](public/dashboard-dark.png.png)
-![Dashboard Dark Tasks](public/dashboard-dark-2.png.png)
+![Dashboard Dark](public/dashboard-dark.png)
+![Dashboard Dark Tasks](public/dashboard-dark-2.png)
 
 ### Dashboard - Light Mode
-![Dashboard Light](public/dashboard-light.png.png)
-![Dashboard Light Tasks](public/dashboard-light-2.png.png)
+![Dashboard Light](public/dashboard-light.png)
+![Dashboard Light Tasks](public/dashboard-light-2.png)
 
 ## 🚀 Features
 
