@@ -48,7 +48,7 @@ A modern, responsive Task Management App built with Next.js, TypeScript, Tailwin
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-dashboard.git
+git clone https://github.com/nikhilzzz540/Task-Management-App.git
 cd task-dashboard
 ```
 
